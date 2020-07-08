@@ -1,0 +1,15 @@
+
+CSE510.iml
+.idea/$PRODUCT_WORKSPACE_FILE$
+.DS_Store
+src/.DS_Store
+.idea/vcs.xml
+src/.DS_Store
+.idea/sbt.xml
+.idea/modules.xml
+.idea/misc.xml
+.DS_Store
+.idea/codeStyles/codeStyleConfig.xml
+out/production/CSE510/tests/Makefile
+out/production/CSE510/tests/TRACE
+/.metadata/
